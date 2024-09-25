@@ -28,8 +28,6 @@
 
 This repository contains the code for an in-depth tutorial. If you prefer visual learning, this is a great resource to help you build projects step-by-step in a beginner-friendly manner!. 
 
-<a href="https://youtu.be/Ahwoks_dawU?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
 ## <a name="introduction">🤖 Introduction</a>
 
 Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. This project can be a guide for your next AI image tool and a boost to your portfolio. 
